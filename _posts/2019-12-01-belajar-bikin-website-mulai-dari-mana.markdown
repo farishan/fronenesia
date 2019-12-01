@@ -3,7 +3,7 @@ title: Belajar Bikin Website, Mulai dari Mana?
 date: 2019-12-01 13:40:00 Z
 ---
 
-Dari HTML sama CSS. Mungkin itu jawaban yang paling umum ditemukan.
+Dari HTML sama CSS. Mungkin itu jawaban yang paling umum ditemukan. Tapi...
 
 Baru mulai udah dihajar kata-kata asing. Mungkin untuk orang yang sangat penasaran dan bersemangat, jawaban itu efektif untuk memulai kegiatan belajar. Di sisi lain, jawaban itu juga bisa membuat seseorang tidak jadi belajar karena terlalu menyeramkan, atau membosankan karena terlalu sering disebut-sebut.
 
