@@ -1,8 +1,8 @@
 ---
 title: Resources
+date: 2019-12-01 12:53:00 Z
 permalink: "/resources/"
 layout: page
-date: 2019-12-01 12:53:00 Z
 ---
 
 ## Sumber Daya dan Bahan

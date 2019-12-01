@@ -1,8 +1,8 @@
 ---
 title: Blog
+date: 2019-12-01 12:53:00 Z
 permalink: "/blog/"
 layout: page
-date: 2019-12-01 12:53:00 Z
 ---
 
 ## Tulisan dan Catatan
