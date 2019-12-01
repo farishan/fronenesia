@@ -3,6 +3,8 @@ title: Apa itu Front-End Web Developer?
 date: 2019-12-01 13:00:00 Z
 ---
 
+Tergantung situasi, kondisi, toleransi, pandangan, dan jangkauan.
+
 ## Front-end
 
 Front-end bisa diartikan sebagai **"paling depan"**, atau bagian depan, atau bagian luar, atau bagian yang terlihat oleh orang lain.

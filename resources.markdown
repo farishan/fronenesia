@@ -1,6 +1,8 @@
 ---
 title: Resources
 date: 2019-12-01 12:53:00 Z
+permalink: "/resources/"
+layout: page
 ---
 
 ## Sumber Daya dan Bahan

@@ -7,7 +7,9 @@ categories:
 layout: post
 ---
 
-Fronenesia dibuat menggunakan Jekyll. Berikut ini adalah konten pertama yang otomatis ada setelah meng-install Jekyll di direktori project kita. Lebih lanjut tentang Jekyll, silakan cari link menuju ke berbagai sumber yang ada di website ini.
+Fronenesia dibuat menggunakan Jekyll. Berikut ini adalah konten pertama yang otomatis ada setelah meng-install Jekyll di direktori project kita. 
+
+Lebih lanjut tentang Jekyll, silakan cari link menuju ke berbagai sumber yang ada di website ini.
 
 ---
 
