@@ -1,6 +1,6 @@
 ---
 title: Welcome to Jekyll!
-date: '2019-12-01 11:28:02 +0000'
+date: 2019-12-01 11:28:02 Z
 categories:
 - jekyll
 - update
