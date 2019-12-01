@@ -18,3 +18,4 @@ github_username: farishan
 theme: minima
 plugins:
 - jekyll-feed
+- jekyll-admin
