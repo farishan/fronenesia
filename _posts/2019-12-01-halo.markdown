@@ -1,6 +1,0 @@
----
-title: Halo
-date: 2019-12-01 07:35:00 Z
----
-
-Halo semuanya!
