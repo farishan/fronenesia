@@ -8,14 +8,14 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: your-email@example.com
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+email: farishanugraha@gmail.com
+description: Fronenesia adalah tempat berbagi tulisan seputar dunia Front End Web
+  Development, dalam bahasa Indonesia. Kritik dan saran dapat dikirim ke farishanugraha@gmail.com
 baseurl: 
 url: 
-twitter_username: jekyllrb
-github_username: jekyll
+twitter_username: farishanugraha
+github_username: farishan
 theme: minima
 plugins:
 - jekyll-feed
+- jekyll-admin
