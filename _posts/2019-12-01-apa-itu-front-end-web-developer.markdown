@@ -1,6 +1,9 @@
 ---
 title: Apa itu Front-End Web Developer?
 date: 2019-12-01 13:00:00 Z
+categories:
+- opini
+- pemula
 ---
 
 Tergantung situasi, kondisi, toleransi, pandangan, dan jangkauan.
