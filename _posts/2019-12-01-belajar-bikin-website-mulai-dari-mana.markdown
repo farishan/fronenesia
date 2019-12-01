@@ -1,6 +1,9 @@
 ---
 title: Belajar Bikin Website, Mulai dari Mana?
 date: 2019-12-01 13:40:00 Z
+categories:
+- opini
+- pemula
 ---
 
 Dari HTML sama CSS. Mungkin itu jawaban yang paling umum ditemukan. Tapi...
